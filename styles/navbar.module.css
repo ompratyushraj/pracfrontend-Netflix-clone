@@ -1,0 +1,8 @@
+.navbarLink{
+    @apply cursor-pointer text-sm transition duration-300 hover:text-[#b3b3b3]
+    font-normal 
+}
+.header{
+    @apply fixed top-0 w-full flex justify-between items-center px-5 py-4 transition-all lg:px-10 lg:py-6
+}
+

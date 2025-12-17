@@ -1,0 +1,3 @@
+.modalButtons{
+    @apply border-2 border-gray-500 p-2 rounded-full hover:border-white transition-all 
+}
